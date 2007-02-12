@@ -1,5 +1,5 @@
 Summary:	microcom-like serial terminal emulator
-Summary(pl):	Podobny do microcoma emulator terminala szeregowego
+Summary(pl.UTF-8):   Podobny do microcoma emulator terminala szeregowego
 Name:		nanocom
 Version:	1.0
 Release:	1
@@ -16,11 +16,11 @@ support. The requirement for this program was to be small enough to
 fit on a floppy-based Linux distribution - such as the one from Linux
 Router Project.
 
-%description -l pl
+%description -l pl.UTF-8
 nanocom jest podobnym do microcoma emulatorem terminala szeregowego z
-obs³ug± skryptów. Program ten ma tak ma³e wymagania, ¿e nadaje siê do
+obsÅ‚ugÄ… skryptÃ³w. Program ten ma tak maÅ‚e wymagania, Å¼e nadaje siÄ™ do
 stosowania w dyskietkowych dystrybucjach Linuksa - takich jak
-wywodz±ca siê z Linux Router Project.
+wywodzÄ…ca siÄ™ z Linux Router Project.
 
 %prep
 %setup -q -c
