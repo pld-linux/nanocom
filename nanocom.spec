@@ -1,5 +1,5 @@
 Summary:	microcom-like serial terminal emulator
-Summary(pl.UTF-8):   Podobny do microcoma emulator terminala szeregowego
+Summary(pl.UTF-8):	Podobny do microcoma emulator terminala szeregowego
 Name:		nanocom
 Version:	1.0
 Release:	1
